@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+}
+
+h1 {
+    text-align: center;
+}
+
+main {
+    margin: auto;
+    margin-top: 10px;
+    width: 90%;
+    height: 90%;
+    background-color: antiquewhite;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+div {
+    margin: auto;
+    width: 30%;
+    height: 30%;
+    background-color: cadetblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
