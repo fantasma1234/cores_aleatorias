@@ -28,7 +28,6 @@ div {
     margin: auto;
     width: 30%;
     height: 30%;
-    background-color: cadetblue;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -38,5 +37,5 @@ div {
     font-size: 1.4em;
     border-radius: 8px;
     border: 1px solid black;
-    font-family: cursive;
+    font-family: Arial, Helvetica, sans-serif;
 }
